@@ -1,6 +1,6 @@
 # Your own
 
-Remember that you can book time on your own calendar. We recommend blocking off your own "free" time in two-to-four hour chunks to complete tasks.
+Remember that you can book time on your own calendar. We recommend blocking off your own headsdown time in two-to-four hour chunks to complete tasks.
 
 Also, if you're planning a meeting, be sure to state your goal (what the meeting is and what it isn't) in an agenda and invite description.
 
@@ -51,7 +51,8 @@ These meetings happen at regular interval and you will be invited to attend the 
 
 - Engineering
 - Project Management
-- DevOps
+- DevSecOps
 - User Experience
 - Diversity, Equity, and Inclusion
 - Hiring
+- [practice area page](../../04-how-we-work/practice-areas/README.md)
